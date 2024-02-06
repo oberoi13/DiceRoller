@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="name_kiret_oberoi">Name: Kiret Oberoi</string>
+    <string name="student_no_991674132">Student No.: 991674132</string>
+    <string name="_0">0</string>
+    <string name="count_up">Count Up</string>
+    <string name="roll">ROLL</string>
+    <string name="button_clicked">Button Clicked!!</string>
+    <string name="dice_roller">Dice Roller</string>
+</resources>
